@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Madhav's Blog</title>
-    <description>[Madhav][my-website]'s Blog © 2017 
+    <description>Madhav's Blog © 2017 
 </description>
-    <link>http://localhost:4000/personal-blog/</link>
-    <atom:link href="http://localhost:4000/personal-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Mar 2017 23:49:11 +0545</pubDate>
-    <lastBuildDate>Fri, 24 Mar 2017 23:49:11 +0545</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 May 2017 14:29:06 +0545</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 14:29:06 +0545</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -49,8 +49,8 @@
 
 </description>
         <pubDate>Sun, 25 Dec 2016 13:19:47 +0545</pubDate>
-        <link>http://localhost:4000/personal-blog/2016/12/25/C++-program-of-file-handling-to-write-a-file-in-the-disk-and-read-from-a-file.html</link>
-        <guid isPermaLink="true">http://localhost:4000/personal-blog/2016/12/25/C++-program-of-file-handling-to-write-a-file-in-the-disk-and-read-from-a-file.html</guid>
+        <link>http://localhost:4000//2016/12/25/C++-program-of-file-handling-to-write-a-file-in-the-disk-and-read-from-a-file.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/12/25/C++-program-of-file-handling-to-write-a-file-in-the-disk-and-read-from-a-file.html</guid>
         
         
       </item>
@@ -79,8 +79,8 @@
 
 </description>
         <pubDate>Sun, 25 Dec 2016 13:19:47 +0545</pubDate>
-        <link>http://localhost:4000/personal-blog/jekyll/update/2016/12/25/c-program-to-find-a-hcf-of-the-two-numbers.html</link>
-        <guid isPermaLink="true">http://localhost:4000/personal-blog/jekyll/update/2016/12/25/c-program-to-find-a-hcf-of-the-two-numbers.html</guid>
+        <link>http://localhost:4000//jekyll/update/2016/12/25/c-program-to-find-a-hcf-of-the-two-numbers.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2016/12/25/c-program-to-find-a-hcf-of-the-two-numbers.html</guid>
         
         
         <category>jekyll</category>
@@ -122,8 +122,8 @@ And miles to go before I sleep.&lt;br /&gt;
 &lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Dec 2016 14:20:47 +0545</pubDate>
-        <link>http://localhost:4000/personal-blog/jekyll/update/2016/12/22/stopping-by-woods-on-a-snowy-evening.html</link>
-        <guid isPermaLink="true">http://localhost:4000/personal-blog/jekyll/update/2016/12/22/stopping-by-woods-on-a-snowy-evening.html</guid>
+        <link>http://localhost:4000//jekyll/update/2016/12/22/stopping-by-woods-on-a-snowy-evening.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2016/12/22/stopping-by-woods-on-a-snowy-evening.html</guid>
         
         
         <category>jekyll</category>
@@ -139,8 +139,8 @@ And miles to go before I sleep.&lt;br /&gt;
 &lt;p&gt;This is the personal blog for posting my ideas and views.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Dec 2016 17:48:24 +0545</pubDate>
-        <link>http://localhost:4000/personal-blog/jekyll/update/2016/12/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/personal-blog/jekyll/update/2016/12/21/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000//jekyll/update/2016/12/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2016/12/21/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

@@ -10,8 +10,8 @@ title: Madhav's Blog
 email: admin@poudelmadhav.com.np
 description: > # this means to ignore newlines until "baseurl:"
   Madhav's Blog © 2017 
-baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
-url: "http://poudelmadhav.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.poudelmadhav.com.np" # the base hostname & protocol for your site
 twitter_username: poudelmadhav143
 github_username: poudelmadhav
 

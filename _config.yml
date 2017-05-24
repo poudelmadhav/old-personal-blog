@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Madhav's Blog
+email: admin@poudelmadhav.com.np
+description: > # this means to ignore newlines until "baseurl:"
+  Madhav's Blog © 2017 
+baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
+url: "http://poudelmadhav.com" # the base hostname & protocol for your site
+twitter_username: poudelmadhav143
+github_username: poudelmadhav
+
+# Build settings
+markdown: kramdown
+
+theme: minima

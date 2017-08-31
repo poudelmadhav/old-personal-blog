@@ -18,4 +18,4 @@ github_username: poudelmadhav
 # Build settings
 markdown: kramdown
 
-theme: minima
+theme: jekyll-theme-tactile
